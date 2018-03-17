@@ -65,6 +65,8 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.b04:system/vendor/firmware/venus.b04 \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.mbn:system/vendor/firmware/venus.mbn \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.mdt:system/vendor/firmware/venus.mdt \
+    vendor/zuk/ham/proprietary/vendor/lib/com.quicinc.cne.api@1.0.so:system/vendor/lib/com.quicinc.cne.api@1.0.so \
+    vendor/zuk/ham/proprietary/vendor/lib/com.quicinc.cne.constants@1.0.so:system/vendor/lib/com.quicinc.cne.constants@1.0.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/eglsubAndroid.so:system/vendor/lib/egl/eglsubAndroid.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libEGL_adreno.so:system/vendor/lib/egl/libEGL_adreno.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libGLESv1_CM_adreno.so:system/vendor/lib/egl/libGLESv1_CM_adreno.so \
