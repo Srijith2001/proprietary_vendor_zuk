@@ -58,6 +58,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_6.fw:system/vendor/firmware/cpp_firmware_v1_1_6.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_2_0.fw:system/vendor/firmware/cpp_firmware_v1_2_0.fw \
+    vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_4_0.fw:system/vendor/firmware/cpp_firmware_v1_4_0.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.b00:system/vendor/firmware/venus.b00 \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.b01:system/vendor/firmware/venus.b01 \
     vendor/zuk/ham/proprietary/vendor/firmware/venus.b02:system/vendor/firmware/venus.b02 \
