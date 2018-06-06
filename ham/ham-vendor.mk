@@ -53,6 +53,12 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/sensors.qcom:system/vendor/bin/sensors.qcom \
     vendor/zuk/ham/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/zuk/ham/proprietary/vendor/bin/time_daemon:system/vendor/bin/time_daemon \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_ATT-VoLTE.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_ATT-VoLTE.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_CMCC_CSFB_DSDS_Commercial_Volte.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_CMCC_CSFB_DSDS_Commercial_Volte.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_CU_OpenMkt-Commercial.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_CU_OpenMkt-Commercial.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_OEM_Overseas-Commercial.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_OEM_Overseas-Commercial.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_Reliance-Commercial.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_Reliance-Commercial.mbn \
+    vendor/zuk/ham/proprietary/vendor/firmware/mbn_ota/mcfg_sw_TMO-Commercial.mbn:system/vendor/firmware/mbn_ota/mcfg_sw_TMO-Commercial.mbn \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/zuk/ham/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
