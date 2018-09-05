@@ -254,7 +254,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libwpa_qmi_eap_proxy \
+    qcrilmsgtunnel \
     TimeService \
     shutdownlistener \
-    vendor.qti.hardware.fm@1.0 \
-    qcrilmsgtunnel
+    vendor.qti.hardware.fm@1.0 
